@@ -1,0 +1,25 @@
+.h1 {
+    text-decoration: none; font-weight: bolder;display:flex;
+                color: black;     font-size: 49px;
+                padding-left: 187px;
+                font-family: 'Tangerine', serif;
+                text-shadow: 4px 4px 4px #aaa;
+}
+
+.about{
+    margin: auto;
+   padding: 30px;
+   height: 65%;
+   background-color:  rgb(245, 223, 223);
+}
+
+.con{
+    margin: auto;
+    text-align: center;
+}
+
+.con h2 {
+    padding-left: 535px;
+    margin-bottom: 20px;
+
+}
